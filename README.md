@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Youtube Channel](https://www.youtube.com/channel/UC6hqCvkl7sKYEMA6mx0vxzw)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am Learner.
+[![Youtube Badge](https://img.shields.io/badge/Youtube-LinkedData-red)](https://www.youtube.com/channel/UC6hqCvkl7sKYEMA6mx0vxzw)
