@@ -2,6 +2,9 @@ Hello I'm Lumbha Ram! 👋
 
 Here are some ideas to get you started:
 
+![Lumbha Ram Github Status](https://github-readme-stats.vercel.app/api?username=erlumbharam&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erlumbharam)
+
 - 🔭 I’m currently working on http://courserasolutions.info
 - 🌱 I’m currently learning Machine Learning, Python
 - 👯 I’m looking to collaborate on Youtube
