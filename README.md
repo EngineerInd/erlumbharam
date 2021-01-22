@@ -1,8 +1,5 @@
 Hello I'm Lumbha Ram! 👋
 
-<!--
-**erlumbharam/erlumbharam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on http://courserasolutions.info
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Twitter- @Git4me
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am Learner.
---> 
