@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 
 [![Youtube Badge](https://img.shields.io/badge/Youtube-LinkedData-red)](https://www.youtube.com/channel/UC6hqCvkl7sKYEMA6mx0vxzw)
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/lumbha/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lumbha/)
